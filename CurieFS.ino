@@ -1,4 +1,4 @@
-// BLE MIDI foot switch for Android 101
+// BLE MIDI foot switch for Arduino 101
 
 #include <CurieBLE.h>
 
